@@ -1,11 +1,11 @@
 {
   "items": [
     {
-      "rawImageUrl": "link raw github",
+      "rawImageUrl": "https://raw.githubusercontent.com/gameindie87/PixelArt/master/github1",
       "itemName": "server_1"
     },
     {
-      "rawImageUrl": "link raw github",
+      "rawImageUrl": "https://raw.githubusercontent.com/gameindie87/PixelArt/master/github2",
       "itemName": "server_2"
     }
   ]
