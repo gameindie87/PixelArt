@@ -1,14 +1,14 @@
 {
   "items": [
     {
-      "grayImageUrl": "",
-      "colorImageUrl": "",
+      "grayImageUrl": "https://i.ibb.co/zZr2Z09/1grey.png",
+      "colorImageUrl": "https://i.ibb.co/bBY4xZz/1.png",
       "itemName": "server_1"
     },
     {
-      "grayImageUrl": "",
-      "colorImageUrl": "",
-      "itemName": "server_135",
+      "grayImageUrl": "https://i.ibb.co/ZzN8DRS/2grey.png",
+      "colorImageUrl": "https://i.ibb.co/wdJrpxJ/2.png",
+      "itemName": "server_2",
       "videoToUnlock": true
     }
   ]
