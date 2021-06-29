@@ -94,6 +94,11 @@
       "colorImageUrl": "https://i.ibb.co/VYZ3YZH/carav1.png",
       "itemName": "server_18",
       "videoToUnlock": true
+    },
+    {
+      "grayImageUrl": "https://i.ibb.co/Vx0Vr6w/carav2grey.png",
+      "colorImageUrl": "https://i.ibb.co/vY6dhwF/carav2.png",
+      "itemName": "server_19"
     }
   ]
 }
